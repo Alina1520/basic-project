@@ -1,0 +1,5 @@
+export const USERS_SERVICE = Symbol('USERS_SERVICE')
+export const USERS_REPOSITORY = Symbol('USERS_REPOSITORY')
+
+export const CONTACTS_SERVICE = Symbol('CONTACTS_SERVICE')
+export const CONTACTS_REPOSITORY = Symbol('USERS_REPOSITORY')

@@ -1,0 +1,1 @@
+export const removeBearerFrom = (token:string)=>(token?token.replace('Bearer ',''):'')
